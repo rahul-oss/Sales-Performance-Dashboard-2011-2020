@@ -1,4 +1,7 @@
 Sales Performance Dashboard | Excel + Power Query + Power Pivot
+
+File Path Link: https://1drv.ms/x/c/c3f4af64e3f7e04b/IQBR8qfhMJuHSIPmecT6n2miAYLNQjpQ6jAnTWMM1iK4cjE?e=vPHM3c Dashboard Preview: https://github.com/rahul-oss/Sales-Performance-Dashboard-2011-2020/blob/main/Sales%20Performace.PNG
+
 Designed and developed an interactive Excel dashboard by processing and analyzing 9.8 million+ records using Power Query and Power Pivot. Solved large-scale reporting and performance challenges by automating data transformation, optimizing the data model, and creating centralized KPI tracking for revenue, transactions, growth trends, category contribution, channel performance, and regional analysis. Enabled faster, data-driven decision-making through dynamic and automated business reporting.
 
 Processed and analyzed 98 lakh+ transactional records
