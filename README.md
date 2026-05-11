@@ -111,5 +111,6 @@ Mid-Term
     Introduce profit margin KPIs
     Add forecasting using Power Pivot/DAX
 
-https://1drv.ms/x/c/c3f4af64e3f7e04b/IQBR8qfhMJuHSIPmecT6n2miAYLNQjpQ6jAnTWMM1iK4cjE?e=vPHM3c
+File Path Link: https://1drv.ms/x/c/c3f4af64e3f7e04b/IQBR8qfhMJuHSIPmecT6n2miAYLNQjpQ6jAnTWMM1iK4cjE?e=vPHM3c
+Dashboard Preview: https://github.com/rahul-oss/Sales-Performance-Dashboard-2011-2020/blob/main/Sales%20Performace.PNG
 
