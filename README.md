@@ -103,9 +103,13 @@ Actions:
 Strategic Recommendations
 Short-Term
     Increase focus on high-performing bike-related products
+
     Improve low-performing regions/channels
     Introduce promotional bundles
 Mid-Term
     Add customer segmentation analysis
     Introduce profit margin KPIs
     Add forecasting using Power Pivot/DAX
+
+https://1drv.ms/x/c/c3f4af64e3f7e04b/IQBR8qfhMJuHSIPmecT6n2miAYLNQjpQ6jAnTWMM1iK4cjE?e=vPHM3c
+
